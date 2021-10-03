@@ -31,5 +31,4 @@ What I want from those who want to develop this project:
 
 
 
-![Add Question](https://user-images.githubusercontent.com/87547919/135748632-f4b2b6b4-8cc0-4288-80e7-3bc477e1c567.png)
-
+![Delete Question](https://user-images.githubusercontent.com/87547919/135748654-9ee5e8e1-a240-4e20-9915-477a051ca2d5.png)
